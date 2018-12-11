@@ -12,5 +12,6 @@ Do : _pip install numpy/argparse/numpy_
 ![receipt](https://user-images.githubusercontent.com/29462447/49783276-52e05280-fd3f-11e8-8ea6-d24626656777.jpg)
 ### Run the command: 
 _python scan.py --image images/receipt.jpg  [location of the stored input image.]_
-[3](https://user-images.githubusercontent.com/29462447/49783490-f598d100-fd3f-11e8-97ae-d3c961a73007.png)
+!
+![3](https://user-images.githubusercontent.com/29462447/49783541-1fea8e80-fd40-11e8-8e40-a63eeffbfec3.png)
 
