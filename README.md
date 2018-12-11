@@ -7,3 +7,6 @@ Find the complete installation guide here: https://www.pyimagesearch.com/opencv-
 
 2. imutils,argparse,numpy:
 Do : _pip install numpy/argparse/numpy_ 
+
+###Input Image
+![receipt](https://user-images.githubusercontent.com/29462447/49783276-52e05280-fd3f-11e8-8ea6-d24626656777.jpg)
